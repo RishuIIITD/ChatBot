@@ -1,4 +1,4 @@
 flask
 requests
 transformers
-torch
+flask-cors
